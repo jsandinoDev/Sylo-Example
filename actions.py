@@ -1,8 +1,5 @@
 # students = []
 
-def get_students(students):
-    return students
-
 def input_grade(subject):
     while True:
         try:
